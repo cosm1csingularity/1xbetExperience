@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712169807577",
+    "project_id": "xbet-experience",
+    "storage_bucket": "xbet-experience.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712169807577:android:3e4be7c5f9b4b1fa7668c8",
+        "android_client_info": {
+          "package_name": "com.incaseofsteam.ixbetexperience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712169807577-ueq98qebrhuujnef1epl1edl7omnkdk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-893l5NfkrEFx3FQukhHEjaUQ4GmLmWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712169807577-ueq98qebrhuujnef1epl1edl7omnkdk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
